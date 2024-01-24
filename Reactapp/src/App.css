@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+nav {
+  display: flex;
+  
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  width: 98.4vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+p{
+  font-size: xx-large;
+}
+
+#ab{
+  margin-left: 64vw;
+  margin-right: 5vw;
+}
